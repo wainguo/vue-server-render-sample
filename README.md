@@ -29,3 +29,5 @@ node renderToFileCmd.js  # 注意这个命令需要自行根据需求定制，�
 ## 发布
 生成的静态页面，以及dist资源按依赖结构部署在ng下即可
 
+## 参考
+[Vue.js 服务器端渲染指南](https://ssr.vuejs.org/zh/)
